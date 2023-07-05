@@ -14,5 +14,5 @@ def ex1():
         validate_file("files/input.txt")
     except ValidationException as ve:
         print(ve)
-
+        
 ex1()
