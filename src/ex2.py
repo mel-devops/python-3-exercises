@@ -17,7 +17,6 @@ def find_total_visits():
 
     return result1+result2+result3
 
-
 def ex2():
     total = find_total_visits()
     print(f"Total visits: {total}.")
